@@ -26,7 +26,7 @@
 
 ## D1 Mini Pinout
 
-![D1 Mini](images/d1_mini.png)
+![D1 Mini](images/d1_mini_pin.png)
 
 ## Recommendations
 
